@@ -7,9 +7,15 @@ References
 -----------
 
 [1] S. Mohapatra, "Convolutional number-theoretic method to optimise integer matrix multiplication", [arXiv:1806.03701], 2018
+
 [2] V. Strassen, "Gaussian Elimination is not Optimal", Numer. Math. 13, p. 354-356, 1969
+
 [3] D. Bini, M. Capovani, F. Romani, and G. Lotti. "O(n^2.7799) complexity for n × n approximate matrix multiplication" Inf. Process. Lett., pp. 234–235, 1979
+
 [4] V. Strassen, "The Asymptotic Spectrum of Tensors and the Exponent of Matrix Multiplication", Proc. 27th Ann. IEEE Symp. on Foundations of Computer Science, pp. 49-54, 1984
+
 [5] D. Coppersmith, S. Winograd, "Matrix multiplication via arithmetic progressions". J. Symbolic Comput. pp. 251–280, 1980
+
 [6] V. Williams, "Multiplying matrices faster than Coppersmith-Winograd". ACM: pp.887–898, 2012
+
 [7] F. Le Gall, "Powers of tensors and fast matrix multiplication", Proc. 39th Int. Symp. on Symbolic and Algebraic Computation, 2014
