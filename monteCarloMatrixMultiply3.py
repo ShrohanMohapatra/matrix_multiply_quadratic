@@ -32,7 +32,7 @@ def monteCarloMatrixMultiply2(A,B):
     return AB
 def testPoly(x,a,b,c,d):
     return a*x**3 + b*x**2 + c*x + d
-setparams = [5,45,5]
+setparams = [5,105,5]
 experi2Time = [k for k in range(setparams[0],setparams[1],setparams[2])]
 xaxis = [k for k in range(setparams[0],setparams[1],setparams[2])]
 for k in range(len(xaxis)):
